@@ -1,0 +1,6 @@
+import webbrowser
+print("")
+code = float(input("Enter the answer to the puzzle ")
+if code == 3521:
+    webbrowser.open("https://github.com/Egargar117")
+
