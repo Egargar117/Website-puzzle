@@ -1,4 +1,4 @@
-# Website-tool[1234.py](https://github.com/user-attachments/files/23283722/1234.py)
+[WebsiteTool.py](https://github.com/user-attachments/files/23283764/WebsiteTool.py)
 import webbrowser
 print("Enter the 4 digit code.")
 print("The first digit is a prime number.")
